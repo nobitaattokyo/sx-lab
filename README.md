@@ -1,1 +1,1 @@
-# sx-lab
+# sxs-lab
